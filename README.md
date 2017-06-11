@@ -1,3 +1,3 @@
 ## deptest
 
-fixture to help golang/dep along
+fixture to help golang/dep along (v2)
